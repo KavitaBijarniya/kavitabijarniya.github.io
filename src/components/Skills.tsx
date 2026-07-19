@@ -12,15 +12,15 @@ const Skills = () => {
         'Excel (Pivot Tables, VLOOKUP, XLOOKUP)',
         'Power BI',
         'Power Query',
-        'Tableau',
+        
       ],
     },
-    {
-      title: 'Programming',
-      icon: Code,
-      color: 'green',
-      skills: ['Python', 'Pandas', 'NumPy'],
-    },
+    // {
+    //   title: 'Programming',
+    //   icon: Code,
+    //   color: 'green',
+    //   skills: ['Python', 'Pandas', 'NumPy'],
+    // },
     {
       title: 'Analytics Skills',
       icon: BarChart2,
@@ -41,8 +41,10 @@ const Skills = () => {
       skills: [
         'Power BI Dashboards & Reports',
         'DAX Measures',
-        'N8N Workflow Automation',
-        'Cross-functional Collaboration',
+        'ChatGPT for Data Analysis',
+        'Problem Solving',
+        'Prompting for Data Analysis',
+      
       ],
     },
   ];

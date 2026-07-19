@@ -63,8 +63,8 @@ const Experience = () => {
               <div className="flex items-start">
                 <CheckCircle2 className="text-green-600 mt-1 mr-3 flex-shrink-0" size={20} />
                 <p className="text-gray-700">
-                  Collaborated with <strong>4-5 cross-functional stakeholders</strong> to define data
-                  requirements and deliver analytical solutions
+                  Analyzed business datasets using SQL queries, joins, 
+                  and aggregations to identify trends and generate insights for dashboard reporting
                 </p>
               </div>
             </div>

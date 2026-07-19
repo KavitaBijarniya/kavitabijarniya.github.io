@@ -18,15 +18,14 @@ const About = () => {
               hands-on experience in modern analytics tools.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              With expertise in SQL, Power BI, Python, and Excel, I specialize in transforming
+              With expertise in SQL, Power BI, and Excel, I specialize in transforming
               raw data into compelling visualizations and actionable recommendations. I've successfully
               analyzed datasets containing 50K+ records, developed interactive dashboards tracking
               15+ KPIs, and reduced manual reporting efforts by 30% through automation.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              My approach combines technical proficiency with business acumen, enabling me to
-              collaborate effectively with cross-functional teams and deliver solutions that
-              support informed decision-making and drive strategic initiatives.
+             My approach combines technical proficiency with business understanding 
+             to transform data into meaningful insights, build effective dashboards, and support data-driven decision-making.
             </p>
           </div>
 

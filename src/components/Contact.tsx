@@ -105,7 +105,7 @@ const handleSubmit = async (e) => {
               onSubmit={handleSubmit} className="space-y-4"
             >
               <input type="checkbox" name="botcheck" style={{display:"none"}} />
-              <input type="hidden" name="access_key" value={import.meta.env.VITE_WEB3FORMS_KEY} />
+              <input type="hidden" name="access_key" value="ec8faef1-3e33-4c7f-b5cc-210c4667a885" />
               <input type="hidden" name="subject" value="New Message from Portfolio" />
               <input type="hidden" name="from_name" value="Kavita Portfolio" />
 

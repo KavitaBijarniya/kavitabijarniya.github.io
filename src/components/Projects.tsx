@@ -14,26 +14,26 @@ const Projects = () => {
       repoLink: 'https://github.com/KavitaBijarniya/Retail-Performance-Analysis-PowerBI-SQL-Excel-Powerpoint-',
     },
     {
-      title: 'Hotel Booking Cancellation & Revenue Analysis',
+      title: 'Supply Chain Analysis Dashboard',
       description:
-        'Analyzed 6,000+ hotel bookings (2022-2024) using Python, reducing missing data from 8% to 0%. Identified a 4.1pp higher cancellation rate in corporate channels and revealed that 51% of revenue was driven by booking volume rather than pricing.',
+        'Developed a Power BI Supply Chain Dashboard to monitor supplier performance, inventory, manufacturing, logistics, and sales across 100+ SKUs and 5 suppliers. Built a star schema data model, created 20+ DAX measures, and used Power Query for data preparation to deliver actionable insights into inventory risks, operational efficiency, and supplier performance.',
       icon: DollarSign,
       color: 'green',
-      technologies: ['Python', 'Pandas', 'Tableau', 'Excel'],
+      technologies: ['Power BI', 'DAX', 'Power Query', 'Excel'],
       metrics: ['6,000+ bookings', '7 key features', '8% to 0% missing data'],
-      dashboardLink: 'https://public.tableau.com/app/profile/kavita.bijarniya/viz/BookingAnalysis_17738348663360/Dashboard1',
-      repoLink: 'https://github.com/KavitaBijarniya/Data-Analysis-Projects-Using-Power-BI-SQL/tree/main/Hotel%20Booking%20Analysis%20using%20Python',
+      dashboardLink: 'https://app.powerbi.com/view?r=eyJrIjoiZGJlODE0NGItYzAzYS00Y2I4LWI4MTUtMWRlMjYzYTI0ZWJhIiwidCI6ImFmZmM4YTIyLWY1ZDMtNDA4Zi05NThlLWFiOTY0ODI3YmU5OSJ9',
+      repoLink: 'https://github.com/KavitaBijarniya/Data-Analysis-Projects-Using-Power-BI-SQL/tree/main/Supply%20Chain%20Analysis%20Project',
     },
     {
-      title: 'Financial Transaction Fraud Detection Dashboard',
+      title: 'Customer Churn & Retention Analysis Dashboard',
       description:
-        'End-to-end fraud detection dashboard analyzing 6K+ financial transactions. Identified high-risk patterns across device, transaction type, and geography, uncovering that ATM and mobile channels contributed to the highest fraud rates (~3%).',
+        'Developed a Power BI Customer Churn Dashboard to analyze 7,043 customers, $21.37M revenue, and a 28.37% churn rate. Built 10+ DAX measures and interactive visualizations to identify key churn drivers, including competitor offers, low customer satisfaction, and month-to-month contracts, helping support data-driven customer retention strategies.',
       icon: Shield,
       color: 'orange',
-      technologies: ['Power BI', 'DAX', 'Excel'],
+      technologies: ['Power BI', 'DAX', 'Excel', 'Power Query'],
       metrics: ['6K+ transactions', '~3% fraud rate', 'Multi-channel analysis'],
-      dashboardLink: 'https://app.powerbi.com/view?r=eyJrIjoiYzNhZjgwNTAtMTVhZS00MDZhLWJjMzUtZGQyZmI2OTk4M2FlIiwidCI6ImFmZmM4YTIyLWY1ZDMtNDA4Zi05NThlLWFiOTY0ODI3YmU5OSJ9',
-      repoLink: 'https://github.com/KavitaBijarniya/Data-Analysis-Projects-Using-Power-BI-SQL/tree/main/Financial%20Transaction%20Fraud%20Analysis',
+      dashboardLink: 'https://app.powerbi.com/view?r=eyJrIjoiYzdjMjI2NDgtYzUwMS00YjMwLThlNTgtZTk3MDI1MmZkNGZhIiwidCI6ImFmZmM4YTIyLWY1ZDMtNDA4Zi05NThlLWFiOTY0ODI3YmU5OSJ9',
+      repoLink: 'https://github.com/KavitaBijarniya/Data-Analysis-Projects-Using-Power-BI-SQL/tree/main/Telecom%20Customer%20Churn%20Analysis',
     },
   ];
 
